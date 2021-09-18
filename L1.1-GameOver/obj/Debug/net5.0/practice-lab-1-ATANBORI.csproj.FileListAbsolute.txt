@@ -1,0 +1,16 @@
+C:\Users\625593\Desktop\Transforming Programmes\Programming Portfolio - Spec\Notes\Lectures\T1\Labs\codes\Practice1\practice-lab-1-ATANBORI\L1.1\bin\Debug\net5.0\practice-lab-1-ATANBORI.exe
+C:\Users\625593\Desktop\Transforming Programmes\Programming Portfolio - Spec\Notes\Lectures\T1\Labs\codes\Practice1\practice-lab-1-ATANBORI\L1.1\bin\Debug\net5.0\practice-lab-1-ATANBORI.deps.json
+C:\Users\625593\Desktop\Transforming Programmes\Programming Portfolio - Spec\Notes\Lectures\T1\Labs\codes\Practice1\practice-lab-1-ATANBORI\L1.1\bin\Debug\net5.0\practice-lab-1-ATANBORI.runtimeconfig.json
+C:\Users\625593\Desktop\Transforming Programmes\Programming Portfolio - Spec\Notes\Lectures\T1\Labs\codes\Practice1\practice-lab-1-ATANBORI\L1.1\bin\Debug\net5.0\practice-lab-1-ATANBORI.runtimeconfig.dev.json
+C:\Users\625593\Desktop\Transforming Programmes\Programming Portfolio - Spec\Notes\Lectures\T1\Labs\codes\Practice1\practice-lab-1-ATANBORI\L1.1\bin\Debug\net5.0\practice-lab-1-ATANBORI.dll
+C:\Users\625593\Desktop\Transforming Programmes\Programming Portfolio - Spec\Notes\Lectures\T1\Labs\codes\Practice1\practice-lab-1-ATANBORI\L1.1\bin\Debug\net5.0\ref\practice-lab-1-ATANBORI.dll
+C:\Users\625593\Desktop\Transforming Programmes\Programming Portfolio - Spec\Notes\Lectures\T1\Labs\codes\Practice1\practice-lab-1-ATANBORI\L1.1\bin\Debug\net5.0\practice-lab-1-ATANBORI.pdb
+C:\Users\625593\Desktop\Transforming Programmes\Programming Portfolio - Spec\Notes\Lectures\T1\Labs\codes\Practice1\practice-lab-1-ATANBORI\L1.1\obj\Debug\net5.0\practice-lab-1-ATANBORI.csprojAssemblyReference.cache
+C:\Users\625593\Desktop\Transforming Programmes\Programming Portfolio - Spec\Notes\Lectures\T1\Labs\codes\Practice1\practice-lab-1-ATANBORI\L1.1\obj\Debug\net5.0\practice-lab-1-ATANBORI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\625593\Desktop\Transforming Programmes\Programming Portfolio - Spec\Notes\Lectures\T1\Labs\codes\Practice1\practice-lab-1-ATANBORI\L1.1\obj\Debug\net5.0\practice-lab-1-ATANBORI.AssemblyInfoInputs.cache
+C:\Users\625593\Desktop\Transforming Programmes\Programming Portfolio - Spec\Notes\Lectures\T1\Labs\codes\Practice1\practice-lab-1-ATANBORI\L1.1\obj\Debug\net5.0\practice-lab-1-ATANBORI.AssemblyInfo.cs
+C:\Users\625593\Desktop\Transforming Programmes\Programming Portfolio - Spec\Notes\Lectures\T1\Labs\codes\Practice1\practice-lab-1-ATANBORI\L1.1\obj\Debug\net5.0\practice-lab-1-ATANBORI.csproj.CoreCompileInputs.cache
+C:\Users\625593\Desktop\Transforming Programmes\Programming Portfolio - Spec\Notes\Lectures\T1\Labs\codes\Practice1\practice-lab-1-ATANBORI\L1.1\obj\Debug\net5.0\practice-lab-1-ATANBORI.dll
+C:\Users\625593\Desktop\Transforming Programmes\Programming Portfolio - Spec\Notes\Lectures\T1\Labs\codes\Practice1\practice-lab-1-ATANBORI\L1.1\obj\Debug\net5.0\ref\practice-lab-1-ATANBORI.dll
+C:\Users\625593\Desktop\Transforming Programmes\Programming Portfolio - Spec\Notes\Lectures\T1\Labs\codes\Practice1\practice-lab-1-ATANBORI\L1.1\obj\Debug\net5.0\practice-lab-1-ATANBORI.pdb
+C:\Users\625593\Desktop\Transforming Programmes\Programming Portfolio - Spec\Notes\Lectures\T1\Labs\codes\Practice1\practice-lab-1-ATANBORI\L1.1\obj\Debug\net5.0\practice-lab-1-ATANBORI.genruntimeconfig.cache
