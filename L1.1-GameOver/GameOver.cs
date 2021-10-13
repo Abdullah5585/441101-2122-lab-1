@@ -7,6 +7,7 @@ namespace L1._1_GameOver
         static void Main(string[] args)
         {
             // Add your code here
+            Console.WriteLine("Game Over!");
             
         }
     }
